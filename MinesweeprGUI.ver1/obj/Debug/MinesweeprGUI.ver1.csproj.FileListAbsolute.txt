@@ -1,0 +1,10 @@
+C:\Users\MrJW3\source\repos\MinesweeprGUI.ver1\MinesweeprGUI.ver1\bin\Debug\MinesweeprGUI.ver1.exe.config
+C:\Users\MrJW3\source\repos\MinesweeprGUI.ver1\MinesweeprGUI.ver1\bin\Debug\MinesweeprGUI.ver1.exe
+C:\Users\MrJW3\source\repos\MinesweeprGUI.ver1\MinesweeprGUI.ver1\bin\Debug\MinesweeprGUI.ver1.pdb
+C:\Users\MrJW3\source\repos\MinesweeprGUI.ver1\MinesweeprGUI.ver1\obj\Debug\MinesweeprGUI.ver1.csprojAssemblyReference.cache
+C:\Users\MrJW3\source\repos\MinesweeprGUI.ver1\MinesweeprGUI.ver1\obj\Debug\MinesweeprGUI.ver1.LevelSelect.resources
+C:\Users\MrJW3\source\repos\MinesweeprGUI.ver1\MinesweeprGUI.ver1\obj\Debug\MinesweeprGUI.ver1.Properties.Resources.resources
+C:\Users\MrJW3\source\repos\MinesweeprGUI.ver1\MinesweeprGUI.ver1\obj\Debug\MinesweeprGUI.ver1.csproj.GenerateResource.cache
+C:\Users\MrJW3\source\repos\MinesweeprGUI.ver1\MinesweeprGUI.ver1\obj\Debug\MinesweeprGUI.ver1.csproj.CoreCompileInputs.cache
+C:\Users\MrJW3\source\repos\MinesweeprGUI.ver1\MinesweeprGUI.ver1\obj\Debug\MinesweeprGUI.ver1.exe
+C:\Users\MrJW3\source\repos\MinesweeprGUI.ver1\MinesweeprGUI.ver1\obj\Debug\MinesweeprGUI.ver1.pdb
